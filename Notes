@@ -1,0 +1,10 @@
+# PHP
+
+PHP is a server-side scripting language that interacts with web servers and issues commands to web servers using SQL (structured query language). 
+
+- All variables are declared with "$"
+- You concatenate strings with "."
+- There are two types of strings: One where you can just **echo** the statement using "echo", or you can assign a string literal to a variable like "e.g., $stringVariable = `something`"
+  - You use double quotes in a echo statement, and backtics when you use an assigned variable.
+  - You also can use variables in echo statements (e.g., echo "Your name is $name")
+- You handle escape characters by putting "\" next to any escape character (e.g., $text = `my spelling\'s amazing`;)
